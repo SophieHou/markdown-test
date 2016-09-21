@@ -39,7 +39,17 @@ Text content
 
 > To be or not to be, that is the question.
 
+---
 
+## Slide 5
 
+![My Favorite Monkey](https://media0.giphy.com/media/ztnzOMg0AuyWs/giphy.gif)
+
+> This is a slide showing a picture of Curious George.
+
+** **Things that are great about George:** **
+
+???
+This is Curious George, discoverying a box of jig saw puzzles.
 
 
