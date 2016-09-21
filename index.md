@@ -43,7 +43,7 @@ Text content
 
 ## Slide 5
 
-![My Favorite Monkey](https://media0.giphy.com/media/ztnzOMg0AuyWs/giphy.gif)
+![My Favorite Monkey](https://media0.giphy.com/media/ztnzOMg0AuyWs/200w.gif)
 
 > This is a slide showing a picture of Curious George.
 
